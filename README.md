@@ -1,7 +1,7 @@
 # <center>My Current Desktop Dotfiles</center>
 
-![](assets/ss1.png)
-![](assets/ss2.png)
+![](assets/1.png)
+![](assets/2.png)
 
 # Used
 - **Topbar:** [yasb](https://github.com/amnweb/yasb) with my [config](configs/yasb/)
