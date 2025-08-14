@@ -1,5 +1,4 @@
-# <center>My Current Desktop Dotfiles</center>
-
+#My current desktop
 ![](assets/1.png)
 ![](assets/2.png)
 
